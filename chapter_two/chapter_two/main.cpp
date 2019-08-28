@@ -3,6 +3,8 @@
 //  chapter_two
 //
 //  Created by Akin Mason-Hogans on 8/27/19.
+//  Using the book, "Learning C++ by Building Games with Unreal Engine 4 (2nd ed)"
+//    by Sharan Volin
 //  Copyright © 2019 akin. All rights reserved.
 //
 
